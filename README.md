@@ -64,4 +64,4 @@ Creating a **Placement Cell App** to maintain a database of all the student inte
 - open Terminal and run command **npm i**
 - run command **npm start** which will load **nodemon index.js** file.
 
-                        <!--- THANK YOU --->
+                      
