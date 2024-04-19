@@ -1,13 +1,6 @@
 # PLACEMENT_CELL_APPLICATION #
 
 Creating a **Placement Cell App** to maintain a database of all the student interviews. It is built using MongoDB, ExpressJS, EJS, Express-Partials-Layouts, GulpJs, Vanilla JS & implements RestFul CRUD APIs along with CRUD Operations.
-
-<br/>
-
-## 🔗 Important Link:--
-
-> Go Live  [Click Here](https://placement-cell-app-j1sg.onrender.com)
-
 <br/>
 
 ## Features:--
